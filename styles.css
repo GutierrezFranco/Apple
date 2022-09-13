@@ -148,6 +148,7 @@ footer img{
     header{
         position: fixed;
         width: 100%;
+        z-index: 200;
     }
 
     header .container{
