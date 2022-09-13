@@ -43,7 +43,7 @@ header{
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px);
     color: white;
-    z-index: 100;
+    z-index: 200;
 }
 
 header .logo{
